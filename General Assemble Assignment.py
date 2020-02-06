@@ -248,8 +248,8 @@ print(scores.mean())
 # ### 2. Trying to predict only using one model...which may not be correct
 # ### 3. No model training is carried out
 # ### 4. Model fitting is not done
-# ### 5. Not able to understand why student is finding the scores of Salary adn ContractType
-# ### 6. Student tried to look into the categorical data at all...by which be will be leaving out most of the information
+# ### 5. Not able to understand why student is finding the scores of Salary ann ContractType
+# ### 6. Student not tried to explore into the categorical data at all...by which be will be leaving out most of the information
 # ### 7. Many errors are there in the code
 # 
 # # It can be judged that student have not got the conceptual clarity on what he has to do analysis because he tring to identify relationship between salary and ContractType. Here ContractType is filled with dummies. So he tring to identifying relationship with dummies
@@ -286,7 +286,7 @@ print(scores.mean())
 # ### 2. Trying to predict only using one model...which may not be correct
 # ### 3. No model training is carried out
 # ### 4. Model fitting is not done
-# ### 5. Not able to understand why student is finding the scores of Salary adn ContractType
-# ### 6. Student tried to look into the categorical data at all...by which be will be leaving out most of the information
+# ### 5. Not able to understand why student is finding the scores of Salary and ContractType
+# ### 6. Student not tried to look explore the categorical data at all...by which be will be leaving out most of the information
 # 
 # # It can be judged that student have not got the conceptual clarity on what he has to do analysis because he tring to identify relationship between salary and ContractType. Here ContractType is filled with dummies. So he tring to identifying relationship with dummies
